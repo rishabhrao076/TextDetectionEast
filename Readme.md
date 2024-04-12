@@ -1,7 +1,7 @@
 ﻿# Text Detection using EAST Algorithm
 
 This notebook contains code to convert a pre-trained EAST model to TensorFlow Lite (TFLite), enabling efficient deployment on various platforms. The EAST (Efficient and Accurate Scene Text Detector) pipeline excels in predicting words and lines of text at arbitrary orientations on 720p images, boasting a commendable inference speed of 13 FPS as reported by the authors.
-[EAST Algorithm](eastAlgorithm.png)
+![EAST Algorithm](eastAlgorithm.png)
 
 
 ## Introduction
@@ -28,7 +28,7 @@ Once the model conversion is complete, you can seamlessly perform inference usin
 Feel free to explore the code and adapt it to your specific use case. Contributions and feedback are always welcome!
 
 ## Demonstration!
-[Reference Image](sign3.jpeg)
+![Reference Image](sign3.jpeg)
 ![Inference Image](sign3Inference.png)
 
 
